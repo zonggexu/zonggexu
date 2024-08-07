@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vanguard.
-- ✨ Familiar with Hello World writing in C, C++, C#, Objective-C, Swift, Java, Kotlin, JavaScript (TypeScript).
+- ✨ Familiar with Hello World writing in C, C++, Objective-C, Swift, Go, Dart, JavaScript (TypeScript).
 - 👀 I’m interested in iOS development.
 - 🌱 I’m currently learning Swift.
 - 💞️ I'm looking for new job opportunities.
