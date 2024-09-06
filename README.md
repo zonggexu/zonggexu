@@ -10,6 +10,7 @@
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/xqsadness/xqsadness/output/github-contribution-grid-snake.svg" />
 
+<br>
 <p align="center">
 - 👋 Hi, I’m @Vanguard.
 - ✨ Familiar with Hello World writing in C, C++, Objective-C, Swift, Go, Dart, JavaScript (TypeScript).
@@ -18,18 +19,10 @@
 - 💞️ I'm looking for new job opportunities.
 - 📫 Contact me at 397829762@qq.com.
 </p>
-
+<br>
 
 <hr/>
 
-<h2 align="center">Languages-Frameworks-Tools</h2>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=swift,github,git,vscode,mongodb,react,java,figma,markdown,spring,netlify"/><br>
-  <img src="https://skillicons.dev/icons?i=javascript,firebase,mysql,bootstrap,mui,html,css,photoshop,postman,vercel" /><br>
-</div>
-
-<br/>
 <hr/>
 
 <h2 align="center">Stats</h2>
