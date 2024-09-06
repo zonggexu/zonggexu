@@ -10,17 +10,14 @@
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/xqsadness/xqsadness/output/github-contribution-grid-snake.svg" />
 
-<hr/>
 
 <br>
-<p align="center">
-- 👋 Hi, I’m @Vanguard.
-- ✨ Familiar with Hello World writing in C, C++, Objective-C, Swift, Go, Dart, JavaScript (TypeScript).
-- 👀 I’m interested in iOS development.
-- 🌱 I’m currently learning Swift.
-- 💞️ I'm looking for new job opportunities.
-- 📫 Contact me at 397829762@qq.com.
-</p>
+<p align="center">- 👋 Hi, I’m @Vanguard.</p>
+<p align="center">- ✨ Familiar with Hello World writing in C, C++, Objective-C, Swift, Go, Dart, JavaScript (TypeScript).</p>
+<p align="center">- 👀 I’m interested in iOS development.</p>
+<p align="center">- 🌱 I’m currently learning Swift.</p>
+<p align="center">- 💞️ I'm looking for new job opportunities.</p>
+<p align="center">- 📫 Contact me at 397829762@qq.com.</p>
 <br>
 
 
