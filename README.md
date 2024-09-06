@@ -10,6 +10,8 @@
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/xqsadness/xqsadness/output/github-contribution-grid-snake.svg" />
 
+<hr/>
+
 <br>
 <p align="center">
 - 👋 Hi, I’m @Vanguard.
@@ -21,7 +23,7 @@
 </p>
 <br>
 
-<hr/>
+
 
 <hr/>
 
@@ -29,11 +31,11 @@
 <br>
 <div align="center">
     
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xqsadness&layout=compact&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zonggexu&layout=compact&theme=tokyonight)
 
-  <img src="https://streak-stats.demolab.com?user=xqsadness&theme=holi-theme" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=zonggexu&theme=holi-theme" alt="GitHub Streak"/>
     <br/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=xqsadness&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=zonggexu&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
 </div>
 
