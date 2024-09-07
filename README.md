@@ -12,12 +12,12 @@
 
 
 <br>
-<p align="center">- 👋 Hi, I’m @Vanguard.</p>
-<p align="center">- ✨ Familiar with Hello World writing in C, C++, Objective-C, Swift, Go, Dart, JavaScript (TypeScript).</p>
-<p align="center">- 👀 I’m interested in iOS development.</p>
-<p align="center">- 🌱 I’m currently learning Swift.</p>
-<p align="center">- 💞️ I'm looking for new job opportunities.</p>
-<p align="center">- 📫 Contact me at 397829762@qq.com.</p>
+<p style="text-align: left;">- 👋 Hi, I’m @Vanguard.</p>
+<p style="text-align: left;">- ✨ Familiar with Hello World writing in C, C++, Objective-C, Swift, Go, Dart, JavaScript (TypeScript).</p>
+<p style="text-align: left;">- 👀 I’m interested in iOS development.</p>
+<p style="text-align: left;">- 🌱 I am currently learning full stack.</p>
+<p style="text-align: left;">- 💞️ I'm looking for new job opportunities.</p>
+<p style="text-align: left;">- 📫 Contact me at 397829762@qq.com.</p>
 <br>
 
 
